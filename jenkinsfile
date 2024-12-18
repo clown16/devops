@@ -7,6 +7,7 @@ pipeline {
                 echo 'Compilando el código...'
                 // Si usas Maven o Gradle, agrega el comando correspondiente aquí
                 // Ejemplo: sh 'mvn clean install'
+                // -- //
             }
         }
 
